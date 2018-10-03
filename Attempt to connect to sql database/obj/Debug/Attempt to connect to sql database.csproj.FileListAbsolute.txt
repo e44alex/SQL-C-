@@ -1,0 +1,7 @@
+D:\source\repos\Attempt to connect to sql database\Attempt to connect to sql database\bin\Debug\Attempt to connect to sql database.exe.config
+D:\source\repos\Attempt to connect to sql database\Attempt to connect to sql database\bin\Debug\Attempt to connect to sql database.exe
+D:\source\repos\Attempt to connect to sql database\Attempt to connect to sql database\bin\Debug\Attempt to connect to sql database.pdb
+D:\source\repos\Attempt to connect to sql database\Attempt to connect to sql database\obj\Debug\Attempt to connect to sql database.csprojAssemblyReference.cache
+D:\source\repos\Attempt to connect to sql database\Attempt to connect to sql database\obj\Debug\Attempt to connect to sql database.csproj.CoreCompileInputs.cache
+D:\source\repos\Attempt to connect to sql database\Attempt to connect to sql database\obj\Debug\Attempt to connect to sql database.exe
+D:\source\repos\Attempt to connect to sql database\Attempt to connect to sql database\obj\Debug\Attempt to connect to sql database.pdb
